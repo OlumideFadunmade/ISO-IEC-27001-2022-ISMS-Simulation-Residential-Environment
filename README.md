@@ -188,4 +188,4 @@ The ISMS lifecycle from risk identification through to audit and management revi
 - Proportionate risk treatment
 - Continuous monitoring and improvement
 
-By replicating ISO 27001 clause structure and documentation rigor, the simulation shows not only technical understanding of security controls, but also appreciation for governance maturity, accountability, and structured risk management practices.
+
